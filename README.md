@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Daksh Sharma👋
 
 # 💫 About Me:
 I'm a commerce student with an interest in data science.<br>I'm currently learning data science and ML/DL.<br>
