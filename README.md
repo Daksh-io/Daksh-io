@@ -18,3 +18,7 @@ I'm a commerce student with an interest in data science.<br>I'm currently learni
 [![](https://visitcount.itsvg.in/api?id=Daksh-io&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 👀 Profile Viewers:
+![Profile Views](https://komarev.com/ghpvc/?username=Daksh-io&color=red&style=flat-square)
