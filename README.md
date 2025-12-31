@@ -1,4 +1,4 @@
-# Hi I'm Daksh Sharma 🖐️
+# Hi, I'm Daksh Sharma 🖐️
 
 **Aspiring Data Scientist | Machine Learning Enthusiast | AI Practitioner**
 
