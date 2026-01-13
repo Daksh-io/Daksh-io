@@ -42,11 +42,10 @@ Mahatma Jyotiba Phule Rohilkhand University (MJPRU), Amroha, UP
 ---
 ## **SKILLS**
 ### **Technical Skills**
-- **Programming & Databases:** Python (NumPy, Pandas, Scikit-learn, PyTorch), SQL, MySQL
-- **Machine Learning:** Regression, Classification, Clustering, Time Series, Supervised & Unsupervised Learning
-- **Data Visualization:** Matplotlib, Seaborn, Tkinter
-- **Tools & Libraries:** Jupyter Notebook, Git, Streamlit, FastAPI
-- **AI & Frameworks:** LangChain, LangGraph, AI Agents, Prompt Engineering
+- **Programming & Databases:** Python (NumPy, Pandas, Scikit-learn), SQL, MySQL
+- **Machine Learning:** Regression, Classification, Clustering, Supervised & Unsupervised Learning
+- **Data Visualization:** Matplotlib, Seaborn
+- **Tools & Libraries:** Jupyter Notebook, Git, Streamlit
 
 ### **Soft Skills**
 Problem Solving, Communication, Analytical Thinking, Adaptability
@@ -55,4 +54,6 @@ Problem Solving, Communication, Analytical Thinking, Adaptability
 ## **CERTIFICATIONS**
 - **Machine Learning with Python – Level 1 (IBM)** — *Completed: March 2025*
 - **PyTorch Bootcamp – OpenCV University** — *Completed: May 2025*
-
+- **Machine Learning Intern – Cognifyz Technologies** – *Completed: December 2025*
+- **Machine Learning Intern – Saiket Systems** – *Completed: November 2025*
+ 
