@@ -54,6 +54,8 @@ I’m passionate about turning data into meaningful insights and building intell
 
 * Machine Learning with Python – *IBM (2025)*
 * PyTorch Bootcamp – *OpenCV University (2025)*
+* Machine Learning Intern – Saiket Systems (2025)
+* Machine Learning Intern – Cognifyz Technologies (2025)
 
 ---
 
