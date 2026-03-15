@@ -1,6 +1,6 @@
 # Hi, I'm Daksh Sharma 🖐️
 
-**Aspiring Data Scientist | Machine Learning Enthusiast | AI Practitioner**
+**Data Science & Machine Learning Enthusiast | AI Practitioner**
 
 I’m passionate about turning data into meaningful insights and building intelligent systems that solve real-world problems. With hands-on experience in machine learning, data analysis, and end-to-end model development, I enjoy working on impactful projects that help businesses make data-driven decisions.
 
