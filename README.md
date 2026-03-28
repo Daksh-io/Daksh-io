@@ -19,6 +19,12 @@ I’m passionate about turning data into meaningful insights and building intell
 
 ## 🔥 Machine Learning Projects
 
+### **Random Forest Sentiment Analysis**
+- Built a multi-class sentiment analysis model using **TF-IDF** and **Random Forest**.  
+- Implemented a full ML pipeline: data cleaning → feature engineering → model evaluation.  
+- Tuned performance with **Grid Search CV** and **Stratified K-Fold**.  
+- Achieved strong accuracy and identified key words influencing predictions through feature importance analysis.  
+
 ### **Customer Segmentation (K-Means)**
 
 * Preprocessed data, applied clustering, and visualized customer groups.
